@@ -6,7 +6,7 @@
 
 This project aims to acquire sensor data through the Arduino in MATLAB. Considering the data, the MATLAB code will basically control an actuator through the Arduino.
 
-A photoresistor and temperature sensor will be used to measure the amount of light and the temperature in Celcius. The data coming from the sensors will be monitored in real time. According to the measurements and the tresholds that can be set in the user interface, a servo motor representing a sun panel will be opened or closed. Also, four LEDs each represnting a different status will be controlled.
+A photoresistor and temperature sensor will be used to measure the amount of light and the temperature in Celcius. The data coming from the sensors will be monitored in real time. According to the measurements and the tresholds that can be set in the user interface, a servo motor representing a sun panel will be opened or closed. Also, four LEDs each representing a different status will be controlled.
 <br><br>
 ## Components
  
