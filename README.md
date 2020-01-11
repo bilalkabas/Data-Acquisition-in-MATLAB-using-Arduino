@@ -62,4 +62,4 @@ Turn on the system using On/Off button on the right panel and wait till the red 
 
 [Bilal KABAŞ](https://github.com/bilalkabas/)
 
-Samet ÖĞÜTEN
+[Samet ÖĞÜTEN](https://github.com/sametoguten/)
